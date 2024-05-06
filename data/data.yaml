@@ -1,0 +1,5 @@
+tranin: data/valid/image
+val: data/valid/image
+
+nc: 4
+names: ['healthy', 'leaf scorch(50%)', 'leaf scorch(90%)', 'soybean']
